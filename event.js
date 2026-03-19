@@ -1,0 +1,14 @@
+function clickEvent() {
+    document.getElementById("box").style.background = "blue";}
+function doubleClickEvent() {
+    document.getElementById("box").style.background = "purple";}
+function mouseOverEvent() {
+    document.getElementById("box").style.background = "yellow";}
+function mouseOutEvent() {
+    document.getElementById("box").style.background = "white";}
+function mouseDownEvent() {
+    document.getElementById("box").style.background = "red";}
+function mouseUpEvent() {
+    document.getElementById("box").style.background = "green";}
+function mouseMoveEvent() {
+    document.getElementById("box").style.background = "orange";}
